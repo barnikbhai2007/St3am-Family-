@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Mini App Auth",
+  "description": "A Telegram Web App that automatically detects and logs in the user's Telegram profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
